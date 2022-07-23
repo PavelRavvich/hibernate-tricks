@@ -1,0 +1,1 @@
+[![CI](https://github.com/PavelRavvich/hibernate-tricks/actions/workflows/ci.yml/badge.svg)](https://github.com/PavelRavvich/hibernate-tricks/actions/workflows/ci.yml)
